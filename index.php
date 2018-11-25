@@ -8,6 +8,7 @@
 	  <meta name="keywords" content="<?php echo keyword();?>" />
 	  <link href="./c/m.css" rel="stylesheet">
       <script src="./c/q.js"></script>
+      <script src="./c/filter.js"></script>
 	</head>
 </html>
 <body>
